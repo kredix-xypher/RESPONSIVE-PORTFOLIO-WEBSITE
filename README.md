@@ -28,7 +28,7 @@
 - **Responsive Layout** - Flawless on any screen size
 - **Interactive Elements** - Hover effects & micro-interactions
 - **Contact Form** - Ready-to-use with FormSubmit
-- 
+
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | Libraries |
@@ -79,11 +79,11 @@ MIT License - Free for personal and commercial use
 ---
 
 
-Key features:
-1. Modern badge-style headers
-2. Color-coded diff blocks for features
-3. Responsive tech stack table
-4. Clear deployment badges
-5. Practical code snippets
-6. Minimalist footer with links
-7. Placeholder image (replace with actual screenshot)
+## 🔥 Key Features
+
+```diff
++ Dynamic Typewriter Effect (Auto-rotating titles)
++ Smooth Scroll Animations (AOS powered)
++ Dark/Light Mode Toggle (Easy on eyes)
+! Fully Responsive (Mobile-first design)
+- No jQuery Dependency (Pure JS/CSS)
