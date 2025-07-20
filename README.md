@@ -29,8 +29,6 @@
 - **Contact Form** - Ready-to-use with FormSubmit
 
 ## 🛠️ Tech Stack
-
-```mermaid
 pie
     title Technology Stack
     "HTML5" : 35
