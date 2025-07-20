@@ -3,7 +3,8 @@
 ![Website Preview](assets/screenshot.png)
 
 > **Modern • Responsive • Interactive**  
-> A professional portfolio template for developers, designers, and digital creators
+> A professional portfolio template for developers, designers, and digital creators  
+> **Made by KREDIX XYPHER**
 
 ## ✨ Why This Template?
 
