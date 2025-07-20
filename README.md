@@ -28,14 +28,7 @@
 - **Responsive Layout** - Flawless on any screen size
 - **Interactive Elements** - Hover effects & micro-interactions
 - **Contact Form** - Ready-to-use with FormSubmit
-
-## 🛠️ Tech Stack
-pie
-    title Technology Stack
-    "HTML5" : 35
-    "CSS3" : 30
-    "JavaScript" : 25
-    "Libraries" : 10
+- 
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | Libraries |
