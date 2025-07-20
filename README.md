@@ -81,7 +81,6 @@ MIT License - Free for personal and commercial use
 
 ## 🔥 Key Features
 
-```diff
 + Dynamic Typewriter Effect (Auto-rotating titles)
 + Smooth Scroll Animations (AOS powered)
 + Dark/Light Mode Toggle (Easy on eyes)
