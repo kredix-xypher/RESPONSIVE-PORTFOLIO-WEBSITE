@@ -1,6 +1,6 @@
 # 🌟 Responsive Portfolio Template
 
-![Website Preview](assets/screenshot.png)
+![Website Preview](preview.png)
 
 > **Modern • Responsive • Interactive**  
 > A professional portfolio template for developers, designers, and digital creators  
