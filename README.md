@@ -1,38 +1,42 @@
-# Responsive-Portfolio-Template
-A sleek, responsive, and interactive portfolio website template for developers, designers, and digital creators. Built with HTML5, CSS3, and JavaScript.
+# 🌟 Responsive Portfolio Template
 
+![Website Preview](assets/screenshot.png)
 
+> **Modern • Responsive • Interactive**  
+> A professional portfolio template for developers, designers, and digital creators
 
-Here's a professional **README.md** for your portfolio template repository:
+## ✨ Why This Template?
 
-Here's a sleek, professional README for your portfolio website repository:
+<div align="center">
 
-```markdown
-# 🌐 KREDIX XYPHER - Portfolio Website Template
+| Feature | Benefit |
+|---------|---------|
+| **Dynamic Animations** | Engage visitors with smooth transitions |
+| **Mobile-First Design** | Perfect display on all devices |
+| **Dark/Light Mode** | Eye-friendly viewing experience |
+| **SEO Optimized** | Better search engine visibility |
+| **Fast Loading** | Optimized performance |
 
-![Website Preview](https://via.placeholder.com/1920x1080/0a0a0a/fdd835?text=KREDIX+XYPHER+Portfolio+Showcase)
+</div>
 
-> **Modern • Responsive • Animated**  
-> A cutting-edge portfolio template for developers and digital creators
+## 🎨 Key Features
 
-## ✨ Key Features
+- **Typewriter Effect** - Auto-rotating professional titles
+- **Scroll Animations** - Powered by AOS.js
+- **Customizable Colors** - Easy theme modification
+- **Responsive Layout** - Flawless on any screen size
+- **Interactive Elements** - Hover effects & micro-interactions
+- **Contact Form** - Ready-to-use with FormSubmit
 
-- **Dynamic Typewriter Effect** - Auto-rotating professional titles
-- **Smooth Scroll Animations** - Powered by AOS library
-- **Dark Mode Interface** - With customizable accent colors
-- **Responsive Layout** - Flawless on all devices
-- **Interactive Elements** - Hover effects and glowing accents
-- **Functional Contact Form** - With email integration
+## 🛠️ Tech Stack
 
-## 🎨 Design Highlights
-
-```diff
-+ Ultra-modern dark theme with yellow accents
-+ 60FPS smooth animations
-+ Clean, spacious layout
-+ Optimized for portfolio showcases
-```
-
+```mermaid
+pie
+    title Technology Stack
+    "HTML5" : 35
+    "CSS3" : 30
+    "JavaScript" : 25
+    "Libraries" : 10
 ## 🛠️ Tech Stack
 
 | Frontend | Backend | Libraries |
@@ -82,12 +86,6 @@ MIT License - Free for personal and commercial use
 
 ---
 
-<div align="center">
-  <a href="https://github.com/kredix-xypher">GitHub</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-  <a href="https://yourportfolio.live">Live Demo</a>
-</div>
-```
 
 Key features:
 1. Modern badge-style headers
